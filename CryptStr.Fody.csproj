@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net46;netstandard2.0</TargetFrameworks>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="FodyHelpers" Version="3.2.13" />
+  </ItemGroup>
+  <PropertyGroup>
+    <PackageId>CryptStr.Fody3</PackageId>
+    <PackageTags>Fody Fody3 CryptStr Weaving Cecil</PackageTags>
+    <PackageLicenseUrl>https://github.com/Trojaner/CryptStr.Fody/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Trojaner/CryptStr.Fody/</PackageProjectUrl>
+    <PackageAuthors>Mark A. Lauritsen, Enes Sadık Özbek &lt;esozbek.me&gt;</PackageAuthors>
+    <PackageOwners>Enes Sadık Özbek &lt;esozbek.me&gt;</PackageOwners>
+    <Version>3.2.13</Version>
+    <PackageVersion>3.2.13</PackageVersion>
+    <Authors>Mark A. Lauritsen, Enes Sadık Özbek &lt;esozbek.me&gt;</Authors>
+    <Description>CryptStr.Fody updated for Fody 3.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+</Project>
