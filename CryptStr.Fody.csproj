@@ -2,10 +2,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>net46;netstandard2.0</TargetFrameworks>
+    <RootNamespace>CryptStr</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="FodyHelpers" Version="3.2.13" />
   </ItemGroup>
+
+  <!-- NuGet Package options -->
   <PropertyGroup>
     <PackageId>CryptStr.Fody3</PackageId>
     <PackageTags>Fody Fody3 CryptStr Weaving Cecil</PackageTags>
