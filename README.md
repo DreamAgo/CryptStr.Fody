@@ -1,7 +1,7 @@
-# CryptStr.Fody
+# CryptStr.Fody3 [![CryptStr.Fody3 NuGet](https://img.shields.io/nuget/v/CryptStr.Fody3.svg)](https://www.nuget.org/packages/CryptStr.Fody3) 
 
-Original Project URL:
-[https://archive.codeplex.com/?p=cryptstr](https://archive.codeplex.com/?p=cryptstr)
+Original Project URL: [https://archive.codeplex.com/?p=cryptstr](https://archive.codeplex.com/?p=cryptstr)
+Original Package Author: Mark A. Lauritsen
 
 This repository contains CryptStr.Fody updated for Fody 3 with .NET Standard 2 and >= .NET 4.6 support.
 
